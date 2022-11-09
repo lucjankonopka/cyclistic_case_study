@@ -1,0 +1,100 @@
+,BikeType,RideStart,RideEnd,RideTime[s],Weekday,StartStation,EndStation,UserType
+271143,classic_bike,2021-10-01 00:00:09,2021-10-01 00:10:12,603,4,Morgan St & Lake St,Noble St & Milwaukee Ave,casual
+117528,classic_bike,2021-10-01 00:00:16,2021-10-01 00:05:29,313,4,Damen Ave & Cortland St,Winchester Ave & Elston Ave,casual
+341788,classic_bike,2021-10-01 00:00:18,2021-10-01 00:08:52,514,4,Halsted St & Roscoe St,Greenview Ave & Diversey Pkwy,casual
+200504,classic_bike,2021-10-01 00:02:22,2021-10-01 00:06:40,258,4,Pine Grove Ave & Irving Park Rd,Clarendon Ave & Junior Ter,member
+21249,classic_bike,2021-10-01 00:02:27,2021-10-01 00:17:56,929,4,MLK Jr Dr & 29th St,Clinton St & Roosevelt Rd,member
+390041,classic_bike,2021-10-01 00:02:40,2021-10-01 00:08:02,322,4,Wells St & Elm St,Wells St & Hubbard St,member
+94861,classic_bike,2021-10-01 00:02:47,2021-10-01 00:12:03,556,4,Morgan St & Lake St,Wacker Dr & Washington St,casual
+352076,electric_bike,2021-10-01 00:02:54,2021-10-01 00:20:52,1078,4,Milwaukee Ave & Grand Ave,Milwaukee Ave & Rockwell St,casual
+402888,electric_bike,2021-10-01 00:02:54,2021-10-01 00:09:56,422,4,Ogden Ave & Chicago Ave,Rush St & Superior St,member
+585927,classic_bike,2021-10-01 00:03:01,2021-10-01 00:08:27,326,4,Sedgwick St & North Ave,Halsted St & Willow St,casual
+245528,electric_bike,2021-10-01 00:03:13,2021-10-01 00:16:44,811,4,Blue Island Ave & 18th St,Morgan St & Lake St,casual
+405073,classic_bike,2021-10-01 00:03:19,2021-10-01 00:11:04,465,4,Lincoln Ave & Diversey Pkwy,Sheffield Ave & Webster Ave,member
+307850,classic_bike,2021-10-01 00:03:48,2021-10-01 00:13:07,559,4,Desplaines St & Kinzie St,Wood St & Hubbard St,member
+234344,classic_bike,2021-10-01 00:03:57,2021-10-01 00:13:12,555,4,Sheridan Rd & Montrose Ave,Broadway & Wilson - Truman College Vaccination Site,member
+407071,classic_bike,2021-10-01 00:04:15,2021-10-01 00:11:02,407,4,Lincoln Ave & Diversey Pkwy,Sheffield Ave & Webster Ave,member
+331732,electric_bike,2021-10-01 00:04:42,2021-10-01 00:12:17,455,4,Franklin St & Lake St,Milwaukee Ave & Grand Ave,casual
+227084,classic_bike,2021-10-01 00:04:49,2021-10-01 00:14:15,566,4,Lincoln Ave & Fullerton Ave,Theater on the Lake,casual
+469580,classic_bike,2021-10-01 00:05:33,2021-10-01 00:18:07,754,4,Wells St & Hubbard St,Dearborn St & Monroe St,member
+260006,electric_bike,2021-10-01 00:06:00,2021-10-01 00:13:44,464,4,Larrabee St & Webster Ave,Wilton Ave & Belmont Ave,member
+294625,classic_bike,2021-10-01 00:06:04,2021-10-01 00:18:34,750,4,Clark St & Newport St,Racine Ave & Fullerton Ave,member
+244751,classic_bike,2021-10-01 00:06:05,2021-10-01 00:12:19,374,4,Carpenter St & Huron St,Morgan St & Lake St,member
+293893,classic_bike,2021-10-01 00:06:17,2021-10-01 00:18:25,728,4,Clark St & Newport St,Racine Ave & Fullerton Ave,member
+408718,classic_bike,2021-10-01 00:06:35,2021-10-01 00:11:10,275,4,Wentworth Ave & Cermak Rd,Clinton St & 18th St,member
+574476,classic_bike,2021-10-01 00:07:05,2021-10-01 00:14:56,471,4,Halsted St & Archer Ave,Halsted St & 35th St,member
+434275,classic_bike,2021-10-01 00:07:07,2021-10-01 00:30:58,1431,4,Clarendon Ave & Junior Ter,Clark St & Lincoln Ave,member
+133881,classic_bike,2021-10-01 00:07:21,2021-10-01 00:10:19,178,4,Woodlawn Ave & 55th St,Kimbark Ave & 53rd St,member
+154458,classic_bike,2021-10-01 00:07:33,2021-10-01 00:09:31,118,4,Millennium Park,Michigan Ave & Jackson Blvd,member
+557415,classic_bike,2021-10-01 00:07:41,2021-10-01 00:13:21,340,4,Federal St & Polk St,Michigan Ave & 14th St,casual
+565406,electric_bike,2021-10-01 00:07:49,2021-10-01 00:28:34,1245,4,DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & Belmont Ave,member
+403303,electric_bike,2021-10-01 00:08:00,2021-10-01 00:13:55,355,4,Lincoln Ave & Diversey Pkwy,Sheffield Ave & Webster Ave,member
+233306,classic_bike,2021-10-01 00:08:19,2021-10-01 00:17:52,573,4,Broadway & Cornelia Ave,Sheffield Ave & Wellington Ave,member
+232402,classic_bike,2021-10-01 00:08:20,2021-10-01 00:18:09,589,4,Broadway & Cornelia Ave,Sheffield Ave & Wellington Ave,member
+403289,classic_bike,2021-10-01 00:08:22,2021-10-01 00:14:18,356,4,Lincoln Ave & Diversey Pkwy,Sheffield Ave & Webster Ave,casual
+295923,classic_bike,2021-10-01 00:09:08,2021-10-01 00:19:53,645,4,State St & 19th St,MLK Jr Dr & 29th St,member
+82878,classic_bike,2021-10-01 00:09:33,2021-10-01 00:21:23,710,4,Damen Ave & Pierce Ave,Carpenter St & Huron St,casual
+113732,electric_bike,2021-10-01 00:09:44,2021-10-01 00:27:38,1074,4,Stetson Ave & South Water St,Racine Ave & Congress Pkwy,casual
+557572,docked_bike,2021-10-01 00:09:55,2021-10-01 00:15:00,305,4,Racine Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,casual
+77990,electric_bike,2021-10-01 00:09:57,2021-10-01 00:13:08,191,4,Michigan Ave & Jackson Blvd,Indiana Ave & Roosevelt Rd,member
+558616,classic_bike,2021-10-01 00:10:22,2021-10-01 00:14:48,266,4,Racine Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,casual
+81934,classic_bike,2021-10-01 00:11:34,2021-10-01 00:25:39,845,4,Wilton Ave & Belmont Ave,Sheridan Rd & Lawrence Ave,casual
+23630,electric_bike,2021-10-01 00:12:05,2021-10-01 00:20:10,485,4,Ravenswood Ave & Lawrence Ave,Broadway & Ridge Ave,casual
+425362,classic_bike,2021-10-01 00:12:07,2021-10-01 00:21:19,552,4,Desplaines St & Kinzie St,Orleans St & Chestnut St (NEXT Apts),casual
+89718,classic_bike,2021-10-01 00:12:38,2021-10-01 00:18:45,367,4,Green St & Randolph St,Clinton St & Tilden St,casual
+261724,classic_bike,2021-10-01 00:12:38,2021-10-01 00:18:44,366,4,Wells St & Concord Ln,Wells St & Huron St,member
+374252,classic_bike,2021-10-01 00:12:41,2021-10-01 00:37:54,1513,4,LaSalle St & Illinois St,Southport Ave & Roscoe St,member
+409253,classic_bike,2021-10-01 00:12:42,2021-10-01 00:29:04,982,4,Green St & Madison St,Sheffield Ave & Webster Ave,member
+257200,classic_bike,2021-10-01 00:12:51,2021-10-01 00:24:14,683,4,Damen Ave & Cortland St,Clark St & Armitage Ave,member
+46762,classic_bike,2021-10-01 00:12:53,2021-10-01 00:15:49,176,4,Damen Ave & Cortland St,Western Ave & Winnebago Ave,member
+294447,classic_bike,2021-10-01 00:13:09,2021-10-01 00:18:19,310,4,Sheffield Ave & Webster Ave,Racine Ave & Fullerton Ave,member
+98259,classic_bike,2021-10-01 00:13:13,2021-10-01 00:23:16,603,4,Western Ave & Leland Ave,Budlong Woods Library,casual
+575087,classic_bike,2021-10-01 00:13:15,2021-10-01 00:43:51,1836,4,Southport Ave & Wellington Ave,Winthrop Ave & Lawrence Ave,casual
+294416,classic_bike,2021-10-01 00:13:17,2021-10-01 00:17:56,279,4,Sheffield Ave & Webster Ave,Racine Ave & Fullerton Ave,member
+296007,classic_bike,2021-10-01 00:13:28,2021-10-01 00:18:12,284,4,Sheffield Ave & Webster Ave,Racine Ave & Fullerton Ave,member
+595696,electric_bike,2021-10-01 00:13:37,2021-10-01 00:17:07,210,4,Rush St & Hubbard St,Streeter Dr & Grand Ave,member
+294429,classic_bike,2021-10-01 00:13:40,2021-10-01 00:18:04,264,4,Sheffield Ave & Webster Ave,Racine Ave & Fullerton Ave,member
+209456,classic_bike,2021-10-01 00:13:46,2021-10-01 00:15:28,102,4,Ashland Ave & Division St,Ashland Ave & Blackhawk St,casual
+113518,classic_bike,2021-10-01 00:13:51,2021-10-01 00:24:35,644,4,Halsted St & 21st St,Halsted St & 35th St,casual
+209904,classic_bike,2021-10-01 00:14:12,2021-10-01 00:29:54,942,4,Fairbanks Ct & Grand Ave,Clark St & 9th St (AMLI),member
+294435,classic_bike,2021-10-01 00:14:36,2021-10-01 00:18:08,212,4,Sheffield Ave & Webster Ave,Racine Ave & Fullerton Ave,member
+168481,classic_bike,2021-10-01 00:15:04,2021-10-01 00:20:06,302,4,Racine Ave & Wrightwood Ave,Lincoln Ave & Fullerton Ave,member
+562972,docked_bike,2021-10-01 00:15:11,2021-10-01 00:22:14,423,4,DuSable Lake Shore Dr & North Blvd,Ritchie Ct & Banks St,casual
+353937,classic_bike,2021-10-01 00:16:00,2021-10-01 00:26:46,646,4,Wells St & Elm St,Cityfront Plaza Dr & Pioneer Ct,casual
+294407,classic_bike,2021-10-01 00:16:00,2021-10-01 00:20:11,251,4,Sheffield Ave & Webster Ave,Racine Ave & Fullerton Ave,member
+30098,classic_bike,2021-10-01 00:16:03,2021-10-01 00:29:46,823,4,Clark St & Montrose Ave,Racine Ave & Wrightwood Ave,casual
+297957,classic_bike,2021-10-01 00:16:05,2021-10-01 00:20:11,246,4,Sheffield Ave & Webster Ave,Racine Ave & Fullerton Ave,member
+173673,classic_bike,2021-10-01 00:16:23,2021-10-01 00:43:09,1606,4,Sheffield Ave & Webster Ave,Lincoln Ave & Fullerton Ave,member
+199235,electric_bike,2021-10-01 00:16:37,2021-10-01 00:32:13,936,4,Clark St & Elm St,Clarendon Ave & Junior Ter,member
+432875,electric_bike,2021-10-01 00:16:41,2021-10-01 00:21:07,266,4,Sheffield Ave & Webster Ave,Lincoln Ave & Diversey Pkwy,member
+612098,electric_bike,2021-10-01 00:16:43,2021-10-01 00:21:20,277,4,State St & Kinzie St,Dearborn St & Monroe St,member
+353274,electric_bike,2021-10-01 00:16:46,2021-10-01 00:23:12,386,4,Western Ave & 24th St,Damen Ave & Cullerton St,member
+143825,classic_bike,2021-10-01 00:16:50,2021-10-01 00:27:36,646,4,Ashland Ave & Division St,Green St & Randolph St,member
+88811,classic_bike,2021-10-01 00:17:03,2021-10-01 00:24:34,451,4,Bissell St & Armitage Ave,Sheffield Ave & Wrightwood Ave,casual
+119762,docked_bike,2021-10-01 00:17:12,2021-10-01 02:33:06,8154,4,Racine Ave & 18th St,Blue Island Ave & 18th St,casual
+35645,electric_bike,2021-10-01 00:17:12,2021-10-01 00:24:54,462,4,N Southport Ave & W Newport Ave,Clark St & Wellington Ave,casual
+426897,classic_bike,2021-10-01 00:17:28,2021-10-01 00:22:00,272,4,New St & Illinois St,Stetson Ave & South Water St,casual
+375479,electric_bike,2021-10-01 00:17:29,2021-10-01 00:22:09,280,4,Orleans St & Merchandise Mart Plaza,Franklin St & Illinois St,casual
+76123,electric_bike,2021-10-01 00:17:38,2021-10-01 00:26:51,553,4,Dearborn St & Erie St,Wood St & Chicago Ave,member
+205154,classic_bike,2021-10-01 00:17:39,2021-10-01 00:25:01,442,4,Orleans St & Merchandise Mart Plaza,Field Blvd & South Water St,casual
+405235,classic_bike,2021-10-01 00:17:44,2021-10-01 00:27:11,567,4,Ashland Ave & Wrightwood Ave,Bissell St & Armitage Ave,member
+152116,electric_bike,2021-10-01 00:18:01,2021-10-01 00:19:05,64,4,Wood St & Milwaukee Ave,Wood St & Milwaukee Ave,casual
+165871,docked_bike,2021-10-01 00:18:09,2021-10-01 00:23:31,322,4,Larrabee St & Webster Ave,Larrabee St & North Ave,casual
+161719,electric_bike,2021-10-01 00:18:42,2021-10-01 00:35:44,1022,4,Sedgwick St & North Ave,Wells St & Polk St,casual
+555282,electric_bike,2021-10-01 00:18:45,2021-10-01 00:31:23,758,4,Ashland Ave & Grace St,Clark St & Newport St,casual
+510023,electric_bike,2021-10-01 00:18:49,2021-10-01 00:26:09,440,4,McClurg Ct & Erie St,Orleans St & Elm St,member
+107403,electric_bike,2021-10-01 00:18:54,2021-10-01 02:14:52,6958,4,Spaulding Ave & 16th St,Spaulding Ave & 16th St,casual
+559672,classic_bike,2021-10-01 00:18:56,2021-10-01 00:28:31,575,4,Sheffield Ave & Webster Ave,Sheffield Ave & Fullerton Ave,casual
+263342,electric_bike,2021-10-01 00:20:30,2021-10-01 00:23:19,169,4,Wells St & Walton St,Wells St & Huron St,casual
+384765,electric_bike,2021-10-01 00:20:35,2021-10-01 00:25:58,323,4,Halsted St & 35th St,State St & 33rd St,casual
+57176,classic_bike,2021-10-01 00:20:53,2021-10-01 00:24:49,236,4,Michigan Ave & Jackson Blvd,State St & Randolph St,member
+235386,electric_bike,2021-10-01 00:21:11,2021-10-01 01:44:45,5014,4,Milwaukee Ave & Rockwell St,Lincoln Ave & Roscoe St,casual
+416154,electric_bike,2021-10-01 00:21:47,2021-10-01 00:30:02,495,4,Larrabee St & Webster Ave,Wells St & Evergreen Ave,casual
+390983,electric_bike,2021-10-01 00:21:54,2021-10-01 00:24:56,182,4,Princeton Ave & 47th St,Halsted St & 47th Pl,member
+463680,classic_bike,2021-10-01 00:22:39,2021-10-01 00:30:34,475,4,Wells St & Elm St,Kingsbury St & Kinzie St,member
+401845,classic_bike,2021-10-01 00:22:41,2021-10-01 00:28:20,339,4,Wells St & Walton St,Rush St & Superior St,casual
+284786,classic_bike,2021-10-01 00:22:43,2021-10-01 00:32:46,603,4,Princeton Ave & Garfield Blvd,Halsted St & 59th St,member
+214527,classic_bike,2021-10-01 00:22:54,2021-10-01 00:37:39,885,4,Wells St & Elm St,Honore St & Division St,casual
+149265,classic_bike,2021-10-01 00:23:12,2021-10-01 00:31:02,470,4,Wells St & Walton St,Larrabee St & Kingsbury St,casual
+214475,classic_bike,2021-10-01 00:23:15,2021-10-01 00:37:36,861,4,Wells St & Elm St,Honore St & Division St,member
+390607,classic_bike,2021-10-01 00:23:20,2021-10-01 01:13:47,3027,4,Wells St & Elm St,Broadway & Cornelia Ave,casual
