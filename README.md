@@ -8,7 +8,7 @@ Google Data Analytics Capstone:
 - Task description
 - Data cleaning process
 - Analysis
-- Conclusions & summary
+- Summary
 
 ## Abstract
 Following case study was completed by Lucjan Konopka as part of the [Google Data Analytics Certificate](https://www.credly.com/badges/d8457d2e-06e4-4142-8ea1-4cfd52f24c67/linked_in_profile). 
