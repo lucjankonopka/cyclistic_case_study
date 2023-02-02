@@ -41,7 +41,7 @@ The main task is to analyse the Cyclistic historical bike trip data to identify 
 
 The whole data cleaning process was performed using pandas library [*cyclistic_data_cleaning.py*](https://github.com/lucjankonopka/cyclistic_case_study/blob/main/cyclistic_data_cleaning.py).
 
-The documentation of the process is included in the file [*Data Cleaning Process Cyclistic.pdf*](https://github.com/lucjankonopka/cyclistic_case_study/blob/main/Data%20Cleaning%20Process%20Cyclistic.pdf).
+The documentation of the process is included in the file [*Data_cleaning_process.ipynb*](https://github.com/lucjankonopka/cyclistic_case_study/blob/main/Data_cleaning_process.ipynb).
 
 ## Analysis
 
