@@ -66,41 +66,21 @@ df_complete['ride_id'].map(len).unique()
 df_complete.duplicated(subset=['ride_id']).value_counts()
 # There are no duplicates of ride ids
 
-# Checking for empty cells, null values:
-df_complete['ride_id'].isnull().value_counts()
-df_complete['rideable_type'].isnull().value_counts()
-df_complete['started_at'].isnull().value_counts()
-df_complete['ended_at'].isnull().value_counts()
-# No empty cells or null values
 
-df_complete['start_station_name'].isnull().value_counts()
-df_complete['start_station_id'].isnull().value_counts()
-df_complete['start_station_name'].isnull().value_counts(
-) & df_complete['start_station_id'].isnull().value_counts()
+# Checking for empty cells, null values:
+for column in df_complete.columns:
+    print(df_complete[column].isnull().value_counts())
+
 # 895032 rows with empty cells or null values in start station description columns
 # start_station_id inconsistent length and format
 
-df_complete['end_station_name'].isnull().value_counts()
-df_complete['end_station_id'].isnull().value_counts()
-df_complete['end_station_name'].isnull().value_counts(
-) & df_complete['end_station_id'].isnull().value_counts()
 # 958227 rows with empty cells or null values in start station description columns
 # end_station_id inconsistent length and format
 
-df_complete['start_station_name'].isnull().value_counts(
-) & df_complete['end_station_name'].isnull().value_counts()
 # 821264 rows where both start and end station is not given
 
-df_complete['start_lat'].isnull().value_counts()
-df_complete['start_lng'].isnull().value_counts()
-# No empty cells or null values
-
-df_complete['end_lat'].isnull().value_counts()
-df_complete['end_lng'].isnull().value_counts()
 # 5844 rows with empty cells or null values in end coordinates columns
 
-df_complete['member_casual'].isnull().value_counts()
-# No empty cells or null values
 
 # Deleting rows with missing data:
 no_nan_data = df_complete.dropna()
@@ -190,18 +170,21 @@ all_rides.head(5)
 # for _ in range(7):
 #     all_rides.loc[all_rides.weekday == _, 'weekday'] = weekdays[_]
 
-all_cleaned_rides_new_columns = all_rides.copy()
+new_columns = {'rideable_type': 'BikeType',
+               'started_at': 'RideStart',
+               'ended_at': 'RideEnd',
+               'ride_time[s]': 'RideTime[s]',
+               'weekday': 'Weekday',
+               'start_station_name': 'StartStation',
+               'end_station_name': 'EndStation',
+               'member_casual': 'UserType'
+              }
 
-all_cleaned_rides_new_columns.columns = ['BikeType',
-                                        'RideStart',
-                                        'RideEnd',
-                                        'RideTime[s]',
-                                        'Weekday',
-                                        'StartStation',
-                                        'EndStation',
-                                        'UserType']
-all_cleaned_rides_new_columns.head(5)
-
+all_rides = all_rides.rename(columns=new_columns)
 
 # EXPORTING CLEAN DATA:
-all_cleaned_rides_new_columns.to_csv('cleaned_data/cyclistic_202110-202209_cleaned.csv')
+all_rides.to_csv('cleaned_data/cyclistic_202110-202209_cleaned.csv', index=False)
+
+
+all_rides_100 = all_rides[:100].copy()
+all_rides_100.to_csv('cleaned_data/cyclistic_202110-202209_cleaned.csv', index=False)
