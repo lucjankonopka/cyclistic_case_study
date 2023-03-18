@@ -6,7 +6,7 @@ Technology used: *python, pandas, matplotlib, numpy, seaborn*
 Google Data Analytics Capstone:
 - Abstract
 - Task description
-- [Data cleaning process](https://github.com/lucjankonopka/cyclistic_case_study/blob/main/Data_cleaning_process.ipynb).
+- [Data cleaning process](https://github.com/lucjankonopka/cyclistic_case_study/blob/main/Data_cleaning_process.ipynb)
 - [Analysis & visualisation](https://github.com/lucjankonopka/cyclistic_case_study/blob/main/How%20Does%20a%20Bike-Share%20%20Navigate%20Speedy%20Success.pdf)
 - Summary
 
